@@ -1,0 +1,42 @@
+_repo: Voittojen-paivilta_72097
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Rytkönen, Antti
+    alias: Rytkonen, Antti
+    birthdate: 1870
+    deathdate: 1930
+    gutenberg_agent_id: '48910'
+    url: http://www.gutenberg.org/2009/agents/48910
+    wikipedia: https://fi.wikipedia.org/wiki/Antti_Rytkönen
+creator:
+  author:
+    agent_name: Heidenstam, Verner von
+    aliases:
+    - Von Heidenstam, Verner
+    - Heidenstam, Karl Gustaf Verner von
+    birthdate: 1859
+    deathdate: 1940
+    gutenberg_agent_id: '5027'
+    url: http://www.gutenberg.org/2009/agents/5027
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Verner_von_Heidenstam
+    - https://sv.wikipedia.org/wiki/Verner_von_Heidenstam
+    - https://fi.wikipedia.org/wiki/Verner_von_Heidenstam
+description: ''
+gutenberg_issued: '2023-11-11'
+identifiers:
+  gutenberg: '72097'
+language: fi
+pgterms:marc905: 20231105060158heidenstam
+pgterms:marc906: '1911'
+pgterms:marc907: FI
+production_note: Juhani Kärkkäinen and Tapio Riikonen
+publication_note: '  $aHelsinki :$bKansanvalistusseura, $c1911.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Voittojen päiviltä
+url: http://www.gutenberg.org/ebooks/72097
